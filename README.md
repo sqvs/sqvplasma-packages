@@ -1,1 +1,1 @@
-# sqvplasma-packages
+# sqvplasma console official packages
